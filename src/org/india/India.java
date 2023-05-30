@@ -13,4 +13,7 @@ public static void main(String[] args) {
 	i.malayalam();
 	i.telugu();
 }
+private void india rank () {
+	System.out.println(" india rank is  no 1");
+}
 }
