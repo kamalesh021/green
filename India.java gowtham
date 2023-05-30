@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	i.malayalam();
 	i.telugu();
 	i.english();
+	i.hindi();
 
 }
 }
