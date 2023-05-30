@@ -12,8 +12,13 @@ public static void main(String[] args) {
 	i.tamillanguage();
 	i.malayalam();
 	i.telugu();
+<<<<<<< HEAD
 	i.english();
 	i.hindi();
 
+=======
+	
+>>>>>>> b22d8372747e4461d5efa2a611de82b0fe870e7f
 }
+india
 }
